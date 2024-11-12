@@ -1,7 +1,7 @@
 # TAREA-5
 EJERCICIO 1
 
-Para el primer mapa se hizo uso de la función cx para seleccionar ciudades situadas debajo del centroide de un país, visualizando este subconjunto en un mapa con el contorno del país como fondo. Luego, en el segundo mapa empleamos clip para recortar los ríos que cruzan las divisiones administrativas situadas por encima del centroide, mostrando solo las partes de los ríos dentro de estas áreas. Por último, visualizamos los resultados en dos mapas y verificamos que los tipos de geometría no se alteraron.
+Para el primer mapa se hizo uso de la función cx para seleccionar ciudades y aeropuertos situados debajo del centroide de Rusia, visualizando este subconjunto en un mapa con el contorno del país como fondo. Luego, en el segundo mapa empleamos clip para recortar los ríos que cruzan las divisiones administrativas situadas por encima del centroide, mostrando solo las partes de los ríos dentro de estas áreas. Por último, visualizamos los resultados en dos mapas y verificamos que los tipos de geometría no se alteraron.
 
 EJERCICIO 2
 
