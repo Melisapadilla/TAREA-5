@@ -9,6 +9,7 @@ Para este ejercicio seleccionamos un subconjunto de municipios de un una unidad 
 
 EJERCICIO 3
 
+En este ejercicio, usamos la función dissolver para agregar datos por región y crear mapas coropléticos. Luego, calculó los envolventes convexas (convex_hull) para subconjuntos de aeropuertos en Rusia, utilizando primero la disolución y la unión (union_all) de geometrías para generar un solo polígono representativo y visualizarlo sobre el mapa.
 
 EJERCICIO 4
 
